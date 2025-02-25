@@ -4,7 +4,7 @@ import HomePage from "./components/HomePage";
 import Movies from "./components/Movies/Movies";
 import Admin from "./components/Auth/Admin";
 import Auth from "./components/Auth/Auth";
-import Booking from "./components/Bookings/Booking";
+import Booking from "./components/Bookings/Bookings";
 import Header from "./components/Header";
 // import SeatSelection from "./components/Bookings/SelectSeat";
 import SeatSelection from "./components/Bookings/SelectSeat";
